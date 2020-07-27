@@ -1,0 +1,5 @@
+admin, Register users with taskManager.py, use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No 
+Hamza, Hamza loves coding, Hamza is interested in coding and loves IT, 2020-03-18, 22 August 2020, no 
+osama, osama likes cars, osama loves to drive and drift, 2020-03-18, 6 march 2020, no 
+Mish, mish lives in alberton, mish drives to campus everyday, 2020-03-18, 24 april 2020, no 
